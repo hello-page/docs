@@ -1,3 +1,5 @@
+>[arakanteam.md#1]
+>[index.md]
 ---
 title: Getting started
 shortTitle: Getting started
